@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritankar-Ultraboy09
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning python programmin
+- 👀 Currenlty learning C 
+- 🌱 beware, I can FORK you lol
 
 <!---
 Ritankar-Ultraboy09/Ritankar-Ultraboy09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
