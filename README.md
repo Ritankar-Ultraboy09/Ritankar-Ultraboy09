@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Ritankar-Ultraboy09
-- 👀 Currenlty learning C 
+-  Currenlty learning C
+- Machine learning practitioner
+
 - 
 - 🌱 Ready to FORK you lol
 
